@@ -1,5 +1,5 @@
 # astro.new
-
+-
 Instantly generate a new Astro project on StackBlitz or CodeSandbox.
 
 # From the UI
